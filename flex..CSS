@@ -1,0 +1,37 @@
+*{margin: 0%;
+padding: 0%;}
+.box {
+    height: 100PX;
+width: 100px;
+margin: 5px;
+border: 2px solid black;
+}
+
+#h1{text-align: center;}
+#container {
+    background-color: rgb(151, 212, 237);
+    height: 500px;
+    width: 700px;
+    margin: 10px;
+    padding: 10px;
+    border: solid black;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    flex-wrap: wrap;
+    align-items: center;
+}
+#box1 {
+    background-color: darkblue;
+    
+    font-size: small;
+    
+    ;
+}
+#box2 { background-color: darkmagenta;
+   
+}
+    #box3 {background-clor: darkred;
+    }
+#box4 {background-color: forestgreen;
+}
